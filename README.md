@@ -1,22 +1,25 @@
+<div align="center">
+
+<img src="public/logo.png" alt="Chatalyze Logo" width="64" height="64">
+
 # 🎯 Chatalyze
 
-### *Chat Analytics Made Simple*
+## *Chat Analytics Made Simple*
 
-![Chatalyze Logo](public/logo.png)
-
-Transform your chat history into powerful insights with our comprehensive multi-platform analyzer.
+**Transform your chat history into powerful insights with our comprehensive multi-platform analyzer.**
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge)](https://lusansapkota.com.np)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/Lusan-sapkota/chat-history-analyzer?style=for-the-badge)](https://github.com/Lusan-sapkota/chat-history-analyzer/issues)
-[![Website](https://img.shields.io/badge/Website-lusansapkota.com.np-blue?style=for-the-badge)](https://lusansapkota.com.np)
+[![GitHub Issues](https://img.shields.io/badge/Issues-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/Lusan-sapkota/chat-history-analyzer/issues)
+[![Website](https://img.shields.io/badge/Website-lusansapkota.com.np-blue?style=for-the-badge&logo=globe)](https://lusansapkota.com.np)
 
 ---
+
+</div>
 
 ## ✨ What is Chatalyze?
 
@@ -75,22 +78,15 @@ Transform your chat history into powerful insights with our comprehensive multi-
 
 ### 📸 Application Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <div>
-        <h4>Upload Interface & Platform Selection</h4>
-        <img src="demo/images/img1.png" alt="Chatalyze Upload Interface" style="width: 100%;">
-    </div>
-    <div>
-        <h4>Chat Analysis & Sidebar Interface</h4>
-        <img src="demo/images/img2.png" alt="Chatalyze Analysis Interface" style="width: 100%;">
-    </div>
-</div>
+| Upload Interface & Platform Selection | Chat Analysis & Sidebar Interface |
+|:---:|:---:|
+| ![Chatalyze Upload Interface](demo/images/img1.png) | ![Chatalyze Analysis Interface](demo/images/img2.png) |
 
 ### 🎬 Video Demonstration
 
-#### Application Walkthrough
+#### 📺 Application Walkthrough
 
-[Watch the demo video](demo/videos/demo1.mkv)
+[**▶️ Watch the Demo Video**](demo/videos/demo1.mkv)
 
 > See how Chatalyze transforms your chat data into beautiful insights with our comprehensive platform support and intuitive interface.
 
@@ -107,7 +103,7 @@ Transform your chat history into powerful insights with our comprehensive multi-
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/chatalyze.git
+git clone https://github.com/Lusan-sapkota/chat-history-analyzer.git
 
 # Navigate to project directory
 cd chatalyze
@@ -172,12 +168,15 @@ Passionate developer crafting innovative solutions for digital communication ana
 
 ### Contributing
 
-Contributions are welcome! Feel free to:
+We welcome contributions! Please read our [**Contributing Guidelines**](CONTRIBUTING.md) to get started.
+
+**Quick ways to contribute:**
 
 - 🐛 Report bugs
-- 💡 Suggest features
+- 💡 Suggest features  
 - 🔧 Submit pull requests
 - ⭐ Star the repository
+- 📖 Improve documentation
 
 ---
 
@@ -187,8 +186,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+<div align="center">
+
 **⭐ Star this repository if Chatalyze helped you!**
 
 *Making chat analysis accessible, private, and powerful for everyone.*
 
 **Built with passion by [Lusan Sapkota](https://lusansapkota.com.np) | © 2025**
+
+</div>
