@@ -1,0 +1,17 @@
+{
+  "dmConversation": {
+    "conversationId": "userA-userB",
+    "messages": [
+      {
+        "senderId": "userA",
+        "text": "Did you see my last tweet?",
+        "createdAt": "2023-04-01T16:22:11.000Z"
+      },
+      {
+        "senderId": "userB",
+        "text": "Yeah, totally relatable 😅",
+        "createdAt": "2023-04-01T16:23:45.000Z"
+      }
+    ]
+  }
+}

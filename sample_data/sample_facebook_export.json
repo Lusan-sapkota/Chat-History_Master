@@ -1,0 +1,17 @@
+{
+  "participants": ["Lusan Sapkota", "Mom"],
+  "messages": [
+    {
+      "sender_name": "Mom",
+      "timestamp_ms": 1688034421234,
+      "content": "Did you eat?"
+    },
+    {
+      "sender_name": "Lusan Sapkota",
+      "timestamp_ms": 1688034431000,
+      "content": "Yes, just now!"
+    }
+  ],
+  "title": "Mom",
+  "thread_type": "Regular"
+}

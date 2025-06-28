@@ -1,0 +1,22 @@
+[6/1/23, 9:00:12 AM] Lusan: Hey, are we still on for today?
+[6/1/23, 9:01:45 AM] John: Yup, see you at 4!
+[6/1/23, 9:02:10 AM] Lusan: Great! Should I bring the charger?
+[6/1/23, 9:03:33 AM] John: Nah, I’ve got mine.
+
+[6/1/23, 10:15:01 AM] Riya: Morning guys 🌞
+[6/1/23, 10:15:25 AM] Lusan: Morningg
+[6/1/23, 10:16:00 AM] John: Good morning!
+
+[6/1/23, 10:30:42 AM] Riya: Can we shift the meeting to 5?
+[6/1/23, 10:31:05 AM] Lusan: Works for me.
+[6/1/23, 10:31:17 AM] John: Same here.
+
+[6/1/23, 10:45:00 AM] Lusan: Don’t forget to send the presentation
+[6/1/23, 10:46:12 AM] Riya: Sending now...
+[6/1/23, 10:46:25 AM] Riya: <Document: Final_Pitch.pdf>
+
+[6/1/23, 10:50:03 AM] John: Got it. Thanks!
+
+[6/1/23, 11:00:00 AM] *** Lusan created group "Project Team" ***
+[6/1/23, 11:00:05 AM] *** Lusan added Riya ***
+[6/1/23, 11:00:08 AM] *** Lusan added John ***

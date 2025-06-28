@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "sender": "you",
+      "timestamp": "2023-08-10T14:22:45Z",
+      "content": "Hey! Loved your last video!"
+    },
+    {
+      "sender": "creator123",
+      "timestamp": "2023-08-10T14:24:00Z",
+      "content": "Thank you! 😊"
+    }
+  ],
+  "chat_with": "creator123"
+}

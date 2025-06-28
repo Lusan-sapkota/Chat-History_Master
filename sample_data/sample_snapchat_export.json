@@ -1,0 +1,19 @@
+{
+  "friends": [
+    {
+      "username": "sillysnap123",
+      "messages": [
+        {
+          "timestamp": "2023-07-21T11:30:45Z",
+          "sender": "Lusan",
+          "content": "This filter is wild 😂"
+        },
+        {
+          "timestamp": "2023-07-21T11:32:10Z",
+          "sender": "sillysnap123",
+          "content": "Haha Ikr"
+        }
+      ]
+    }
+  ]
+}

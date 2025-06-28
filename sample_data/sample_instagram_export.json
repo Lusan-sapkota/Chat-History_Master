@@ -1,0 +1,17 @@
+{
+  "conversation": {
+    "title": "with: cool_friend",
+    "messages": [
+      {
+        "sender_name": "Lusan",
+        "timestamp_ms": 1675523321234,
+        "content": "That story was hilarious 😂"
+      },
+      {
+        "sender_name": "cool_friend",
+        "timestamp_ms": 1675523400000,
+        "content": "Haha, I knew you'd like it!"
+      }
+    ]
+  }
+}
