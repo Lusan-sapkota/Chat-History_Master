@@ -42,7 +42,7 @@ Ready to code? Awesome! Please follow these steps:
 2. **Clone** your fork locally:
 
    ```bash
-   git clone https://github.com/yourusername/chatalyze.git
+   git clone https://github.com/Lusan-sapkota/chat-history-analyzer.git
    cd chatalyze
    ```
 

@@ -79,7 +79,7 @@
 
 ### 📸 Application Screenshots
 
-| Upload Interface & Platform Selection | Chat Analysis & Sidebar Interface |
+| Chat Analysis & Sidebar Interface | Upload Interface & Platform Selection |
 |:---:|:---:|
 | ![Chatalyze Upload Interface](demo/images/img1.png) | ![Chatalyze Analysis Interface](demo/images/img2.png) |
 
