@@ -19,7 +19,8 @@
 
 ---
 
-</div>
+## 🚀 [Live At](https://chat-history-analyzer.vercel.app/)
+[![Live At](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-history-analyzer.vercel.app/)
 
 ## ✨ What is Chatalyze?
 
@@ -81,14 +82,6 @@
 | Upload Interface & Platform Selection | Chat Analysis & Sidebar Interface |
 |:---:|:---:|
 | ![Chatalyze Upload Interface](demo/images/img1.png) | ![Chatalyze Analysis Interface](demo/images/img2.png) |
-
-### 🎬 Video Demonstration
-
-#### 📺 Application Walkthrough
-
-[**▶️ Watch the Demo Video**](demo/videos/demo1.mkv)
-
-> See how Chatalyze transforms your chat data into beautiful insights with our comprehensive platform support and intuitive interface.
 
 ---
 
