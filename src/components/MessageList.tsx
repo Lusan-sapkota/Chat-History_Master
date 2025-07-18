@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Message } from '../types/chat';
-import { MessageSquare, Search, ChevronLeft, ChevronRight, Download, Filter, Calendar, User, SortAsc, SortDesc } from 'lucide-react';
+import { MessageSquare, Search, ChevronLeft, ChevronRight, Download, Filter, Calendar, User } from 'lucide-react';
 import { formatDate } from '../utils/chatUtils';
 import { generatePDFFileName } from '../utils/pdfUtils';
 import ChatStats from './ChatStats';
